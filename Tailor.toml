@@ -1,0 +1,6 @@
+name = "lua"
+version = "5.5.0"
+type = "lib"
+edition = "2025.1"
+
+[dependencies]
